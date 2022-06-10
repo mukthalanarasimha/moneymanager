@@ -1,0 +1,29 @@
+.Balance_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 200px;
+  background-color: #ecfccb;
+  border-color: #ecfccb;
+  margin: 20px;
+  border-radius: 30px;
+}
+.image_container {
+  height: 50px;
+  width: 50px;
+}
+.amount_and_balance {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.balance_paragragh {
+  color: black;
+  font-family: 'roboto';
+}
+.Balance_container_big {
+  display: flex;
+  border-radius: 30px;
+}

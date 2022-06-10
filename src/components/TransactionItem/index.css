@@ -1,0 +1,25 @@
+.table_row {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #cbd5e1;
+  border-left: 1px solid #cbd5e1;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.heading_history {
+  text-align: start;
+  font-family: 'roboto';
+  color: black;
+  font-weight: bolder;
+  font-size: 10px;
+}
+.history_aligh {
+  display: flex;
+  width: 500px;
+  justify-content: space-around;
+}
+.deleteIcon {
+  height: 10px;
+}
